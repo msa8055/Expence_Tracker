@@ -74,6 +74,5 @@ LocalStorage (for saving data)
 
 
 🤝 Contributing
-
 Pull requests are welcome!
 If you’d like to improve the UI, add new features, or optimize the code—feel free to contribute.
